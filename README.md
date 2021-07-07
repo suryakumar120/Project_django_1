@@ -1,2 +1,2 @@
-# Project_django_1
-A web development Project based on Django framework
+django_project_to_do_list
+A basic to-do list app based on django framework
